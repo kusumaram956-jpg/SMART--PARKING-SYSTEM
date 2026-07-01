@@ -14,7 +14,7 @@ Technologies Used:
 - HTML
 - CSS
 - JavaScript
-- Google Maps Embed API
+- Google Maps Embed API. 
 - Font Awesome
 
 Future Enhancements:
